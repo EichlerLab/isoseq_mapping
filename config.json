@@ -1,0 +1,18 @@
+{
+  "reference": "human",
+  "species": "chimp,gorilla,human",
+  "chimp": {
+    "isoseq": "/net/eichler/vol18/zevk/great_apes/iso_seq/cc2_analysis/chimp_ice/isoseq_flnc.fasta"
+  },
+  "gorilla": {
+    "isoseq": "/net/eichler/vol18/zevk/great_apes/iso_seq/cc2_analysis/gorilla_ice/isoseq_flnc.fasta"
+  },
+  "human": {
+    "isoseq": "/net/eichler/vol18/zevk/great_apes/iso_seq/cc2_analysis/human_ice/isoseq_flnc.fasta",
+    "reference": "/net/eichler/vol2/eee_shared/assemblies/GRCh38/indexes/GRCh38.fasta",
+    "gmap_db": "/net/eichler/vol2/eee_shared/assemblies/GRCh38/indexes/gmap2/GRCh38",
+    "gmap_db_name": "GRCh38",
+    "star_index": "/net/eichler/vol25/projects/whole_genome_assembly/nobackups/chimp/Drafts/V3.0a-falcon/annotation/GRCh38",
+    "exons": "/net/eichler/vol2/eee_shared/assemblies/hg38/genes/refGene.exons.bed"
+  }
+}
